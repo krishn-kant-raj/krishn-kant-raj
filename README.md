@@ -22,6 +22,10 @@ I am a fresher in the Data Science field and looking to solve real world problem
    <li> Linux/Mac Commandline </li>
   </ul>
 </details>
+<a href="https://github.com/krishn-kant-raj/krishn-kant-raj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishn-kant-raj&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-![Krishn Kant Raj's github stats](https://github-readme-stats.vercel.app/api?username=krishn-kant-raj&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishn-kant-raj&layout=compact&hide_border=true)
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishn-kant-raj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
