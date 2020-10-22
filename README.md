@@ -20,6 +20,7 @@ I am a fresher in the field of Data Science and looking to solve real world prob
    <li> Face Mask Detection using MobileNet </li>
    <li> Flask </li>
    <li> Linux/Mac Commandline </li>
+  <li> Git/GitHub </li>
   </ul>
 </details>
 <a href="https://github.com/krishn-kant-raj/krishn-kant-raj">
