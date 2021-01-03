@@ -9,17 +9,17 @@ I am a fresher in the field of Data Science and looking to solve real world prob
 <a href="mailto:krishnkantraj@gmail.com"><img height="30" src="https://github.com/krishn-kant-raj/krishn-kant-raj/blob/main/mail.png"></a>
 </p>
 
-
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
  <ul>
    <li> Python </li>
+   <li> Docker </li>
    <li> Webscraping using Python </li>
    <li> Machine Learning using Python </li>
    <li> Excel VBA </li>
    <li> Face Mask Detection using MobileNet </li>
    <li> Flask </li>
-   <li> Linux/Mac Commandline </li>
+   <li> Linux / Mac Commandline </li>
   <li> Git/GitHub </li>
   </ul>
 </details>
