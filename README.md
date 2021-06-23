@@ -12,16 +12,27 @@ I am a fresher in the field of Data Science and looking to solve real world prob
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
  <ul>
-   <li> Python </li>
-   <li> Docker </li>
-   <li> Webscraping using Python </li>
-   <li> Machine Learning using Python </li>
-   <li> Excel VBA </li>
-   <li> Face Mask Detection using MobileNet </li>
-   <li> Flask </li>
-   <li> Linux / Mac Commandline </li>
+  <li> Python </li>
+  <li> Docker </li>
+  <li> Webscraping using Python </li>
+  <li> Machine Learning using Python </li>
+  <li> Excel VBA </li>
+  <li> Flask </li>
+  <li> Linux / Mac Commandline </li>
   <li> Git/GitHub </li>
+  <li> MERN
   </ul>
+</details>
+
+<details>
+ <summary><b>Current Running Projects</b></summary>
+ <ul>
+ <li> LinkedIn Jobs Scraping
+ <li> Amazon Products Scraping <a href="https://github.com/krishn-kant-raj/Scrapping-and-Analysis/blob/master/AutoScraper-Amazon.ipynb">NoteBook</a>
+ <li> Flipkart Mobile Scraping <a href='https://flipkart-mobile-scrap.herokuapp.com/'>Web-App</a>
+ <li> Flipkart Products Scraping by keyword 
+ <li> sarkariresult.com  jobs and admissions scraping <a href='https://latestjobs-n-admissions.herokuapp.com/'>Web-App</a>
+ </ul>
 </details>
 <a href="https://github.com/krishn-kant-raj/krishn-kant-raj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishn-kant-raj&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
