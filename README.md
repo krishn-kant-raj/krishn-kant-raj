@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a fresher in the field of Data Science and looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. I have successfully complited a free python training of 30 Hrs. If you found value in something I have created, please feel free to give me a shout out [@krishn-kant-raj](https://twitter.com/krishnkantraj/) or give some ♥ on [mail](mailto:krishnkantraj@gmail.com). Feel free to reach out in case you want to just get in touch also.
+I am a fresher in the field of **Data Scraping, Web Development and Data Analytics** and looking to solve real world problems. I have done scraping on various websites and created web-apps hosted on heroku. I have a passion for learning and sharing my knowledge with others as publicly as possible. I had successfully conducted a free python training of 5 weeks for the B.Tech and BCA students of various colleges. If you found value in something I have created, please feel free to give me a shout out [@krishn-kant-raj](https://twitter.com/krishnkantraj/) or give some ♥ on [E-mail](mailto:krishnkantraj@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/krishnkantraj/"><img height="30" src="https://github.com/krishn-kant-raj/krishn-kant-raj/blob/main/linkedin.png"></a>&nbsp;&nbsp;
